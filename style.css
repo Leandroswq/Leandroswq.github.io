@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+   background-color: #bfd9c0;
+ }
+ .texto-sobre {
+   font-family: "Dosis";
+ }
+ h1,
+ h2,
+ h3 {
+   font-family: "Mukta";
+ }
+ #sobre {
+   font-size: 30px;
+ }
+ #links-internos {
+   text-align: left;
+ }
+
+ #foto-leandro{
+    width= 250px;
+ }
