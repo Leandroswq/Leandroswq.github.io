@@ -1,22 +1,42 @@
 body {
-    text-align: center;
-   background-color: #bfd9c0;
- }
- .texto-sobre {
-   font-family: "Dosis";
- }
- h1,
- h2,
- h3 {
-   font-family: "Mukta";
- }
- #sobre {
-   font-size: 30px;
- }
- #links-internos {
-   text-align: left;
- }
+  text-align: center;
+  background-color: #bfd9c0;
+}
+.texto-sobre {
+  font-family: "Dosis";
+}
+h1,
+h2,
+h3 {
+  font-family: "Mukta";
+}
+#sobre {
+  min-height: 200px;
+}
+#sobre h2 {
+  font-size: 30px;
+}
 
- #foto-leandro{
-    width= 250px;
- }
+#links-internos {
+  text-align: left;
+}
+
+
+#div-sobre{
+    min-height: 200px;
+}
+
+#minha-foto {
+  float: right;
+}
+
+ul {
+  text-align: left;
+}
+
+
+
+
+div {
+  border: 0px solid black;
+}
